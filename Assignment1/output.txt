@@ -1,0 +1,1 @@
+#include<stdio.h>intmain(void){printf("Hello");printf("World");return0;}

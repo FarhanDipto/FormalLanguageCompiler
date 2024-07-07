@@ -1,0 +1,1 @@
+[id char] [id c] [sep ;] [id int] [id x1] [sep ,] [id x_2] [sep ;] [id float] [id y1] [sep ,] [id y2] [sep ;] [id x1] [sep =] [num 5] [sep ;] [id x_2] [sep =] [num 10] [sep ;] [id y1] [sep =] [num 2.5+x1*45] [sep ;] [id y2] [sep =] [num 100.o5-x_2/3] [sep ;] [id if(y1<] [sep =] [id y2)] [id c] [sep =] [unkn 'y'] [sep ;] [kw else] [id c] [sep =] [unkn 'n'] [sep ;] 
